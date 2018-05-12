@@ -20,5 +20,5 @@ SOURCES += main.cpp \
 HEADERS += \
     CSensors.h
 
-target.path = /usr/bin
+target.path = /usr/bin #définit le chemin d'installation du binaire sur la cible
 INSTALLS += target
